@@ -272,6 +272,10 @@
       logo: 
       url: https://mail.tm/zh/
       description: 
+    - title: 临时邮箱07
+      logo: 
+      url: https://temp-mail.org/zh/
+      description: 
     - title: 别名邮箱-博客
       logo: 
       url: https://appscross.com/blog/a-few-things-should-know-about-email.html
@@ -1589,6 +1593,10 @@
           logo: 
           url: https://github.com/521xueweihan/GitHub520
           description: 
+        - title: 免费机场节点-需要用仓库搭建
+          logo: 
+          url: https://github.com/wzdnzd/aggregator
+          description: 
             
     - term: 魔法工具
       links:
@@ -2111,6 +2119,10 @@
           logo: 
           url: https://www.youtube.com/watch?v=6tl11mTbggk
           description: 
+        - title: 全自动获取免费机场节点订阅方法
+          logo: 
+          url: https://www.youtube.com/watch?v=SvUtTw4MrIQ
+          description: 
 
     - term: 4K/8K视频测试
       links:
@@ -2157,4 +2169,9 @@
           logo:  
           url: https://www.xiaozhongjishu.com/
           description: 
+        - title: 科技分享导航
+          logo:  
+          url: https://afengxiang.github.io/afx/
+          description: 
+          
 ---
